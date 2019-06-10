@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/sato/.virtualenvs/python_30/bin/python"
+}
